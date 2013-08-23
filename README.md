@@ -1,7 +1,6 @@
 proxyMITY
 ================
- 
- ![solarized vim](https://github.com/ninadchilap/proxyMITY-sdcard/blob/master/res/drawable-hdpi/proxy.png)
+
 
 About
 -----
