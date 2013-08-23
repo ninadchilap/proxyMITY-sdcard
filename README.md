@@ -1,7 +1,7 @@
 proxyMITY
 ================
  
- ![solarized vim](https://raw.github.com/ninadchilap/proxyMITY-sdcard/blob/master/res/drawable-hdpi/proxy.png)
+ ![solarized vim](https://github.com/ninadchilap/proxyMITY-sdcard/blob/master/res/drawable-hdpi/proxy.png)
 
 About
 -----
