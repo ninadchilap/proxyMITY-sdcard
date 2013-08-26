@@ -1,10 +1,7 @@
-.. image:: https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
-
-
-
+.. image:: 
+   https://dl.dropboxusercontent.com/sh/wzqrnzverljk4gb/p_zCsuxfMY/proxyMITY.png?token_hash=AAG2rezEpjAWhbXpNwLvK7ew1WdboPjdUsJLfxCCmzgCkg
 proxyMITY
 ================
-
 
 About
 -----
