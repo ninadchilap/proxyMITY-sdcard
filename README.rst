@@ -1,4 +1,4 @@
-.. figure:: https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
+.. figure::   https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
 
 .. image::
    https://lh3.googleusercontent.com/-z0r2Q9_tPnY/UMmhqLzNjNI/AAAAAAAABeU/vIP_4zMur4o/s773/aakash-logo.png
