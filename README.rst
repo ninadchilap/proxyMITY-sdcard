@@ -1,8 +1,6 @@
-.. image::
-   https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
+.. image:: https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
 
-.. image::
-   https://www.dropbox.com/sh/wzqrnzverljk4gb/je5FDD6xdg#lh:null-proxyMITY.png
+
 
 proxyMITY
 ================
