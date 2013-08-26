@@ -1,8 +1,5 @@
 .. image:: 
    https://dl.dropboxusercontent.com/sh/wzqrnzverljk4gb/p_zCsuxfMY/proxyMITY.png?token_hash=AAG2rezEpjAWhbXpNwLvK7ew1WdboPjdUsJLfxCCmzgCkg
-proxyMITY
-================
-
 About
 -----
 As the name suggests, “ProxyMITY” serves as a “proxy”, i.e. it provides virtual closeness
